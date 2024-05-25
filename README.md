@@ -4,14 +4,17 @@ In this project i am going to do  Disk and memory forensics with ransomeware inf
 
 ## Steps
 1. Setup up  isolated windows 10 Virutal machine without any internet connection
-2. Disable windows defender realtime protection and smartscreen protection
-3. Download and run the wannacry ransomeware
+
+   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/2b365fb7-9af3-4f68-bf48-7a147943ca7a)
+
+3. Disable windows defender realtime protection and smartscreen protection
+4. Download and run the wannacry ransomeware
 
    ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/0fdbf265-910c-4dad-b3ea-4403b51757f4)
 
-4. Download and install the FTK imager 
-5. Use FTK imager to get Disk and memory image
-6. Click file -> Select Create disk image
+5. Download and install the FTK imager 
+6. Use FTK imager to get Disk and memory image
+7. Click file -> Select Create disk image
    
   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/0ec53541-d60e-4f39-99e3-bc5831c56c94)
 
@@ -32,7 +35,7 @@ In this project i am going to do  Disk and memory forensics with ransomeware inf
 
   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/84030f18-5acd-461a-9098-7c03b35cd5cc)
 
-11. Select image destination folder make sure enough space available in that drive (removeble drive preferable for securly analysze a image in testing machine)
+11. Select image destination folder make sure enough space available in that drive (removeble drive preferable for securly analysze a image in remote testing machine from infected machine)
 12. Enter image file name without extension
 13. Use segmentation (optional)
 14. click finish
@@ -49,16 +52,19 @@ In this project i am going to do  Disk and memory forensics with ransomeware inf
 
   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/37f600cd-d8be-4e27-907c-487273fddbf3)
 
-17.  Enter Destination folder to store memory image
+17.  Enter Destination folder to store memory image (removeble drive preferable for securly analysze a image in remote testing machine from infected machine)
 18.  click capture memory
      
   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/fec21965-899e-4e46-826c-b48aeb6ce70f)
 
   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/b8b4dde0-eb0f-4c70-85df-cf9c9f1059dd)
   
-5. Download and install Autopsy
-6. Create a  new Case in Autospy
-7. Analyse the Disk image with Autopsy
+19. Download and install Autopsy in test machine (isolated from infected machine)
+
+![image](https://github.com/George-1100/Digital-forensics/assets/76154087/668084a1-84e6-4578-b7c3-81345814cd4d)
+
+7. Create a  new Case in Autospy
+8. Analyse the Disk image with Autopsy
    
 
    
