@@ -12,7 +12,7 @@ In this project i am going to do  Disk and memory forensics with ransomeware inf
 
    ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/0fdbf265-910c-4dad-b3ea-4403b51757f4)
 
-5. Download and install the FTK imager 
+5. Download and install the FTK imager in removable device
 6. Use FTK imager to get Disk and memory image
 7. Click file -> Select Create disk image
    
@@ -63,9 +63,36 @@ In this project i am going to do  Disk and memory forensics with ransomeware inf
 
 ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/668084a1-84e6-4578-b7c3-81345814cd4d)
 
-7. Create a  new Case in Autospy
-8. Analyse the Disk image with Autopsy
+20. Create a  new Case in Autospy
+
+   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/6f11cc33-be9d-4a23-9739-483876d62a51)
+
+ 21. Enter case information
    
+   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/63e1083c-851d-44c0-bb4d-6c2067acf12f)
+
+   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/14de6443-2945-4193-9625-34ca48925d63)
+
+22. Select and add Data source
+    
+   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/bbc2eee2-3714-410a-a951-a7395a172598)
+
+   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/94680ea4-8101-46ae-8296-b3e260fff446)
+
+23. Select Path of the disk image file (Autopsy automatically select all segments)
+    
+   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/595d042a-1b20-48d4-a1fc-4fb0df413a66)
+   
+   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/53dce4d4-800c-47f0-93da-3c5d41d036aa)
+
+   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/2a465fb1-fc26-4fae-aa4a-8333a1093ce7)
+
+   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/6f963ecf-5802-4fab-96b2-ce078e0aa48c)
+
+
+  24. Analyse the Disk image with Autopsy
+   
+  ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/596e4f85-74ff-44b6-95fb-8997da828975)
 
    
 
