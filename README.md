@@ -11,9 +11,10 @@ In this project i am going to do  Disk and memory forensics with ransomeware inf
 
 4. Download and install the FTK imager 
 5. Use FTK imager to get Disk and memory image
-6. Select Create disk image
+6. Click file -> Select Create disk image
    
-   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/3037d867-da1c-43b6-a31c-2bd264e64c5f)
+  ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/0ec53541-d60e-4f39-99e3-bc5831c56c94)
+
 
 7. Select Logical drive
    
@@ -43,6 +44,15 @@ In this project i am going to do  Disk and memory forensics with ransomeware inf
    ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/be3e08ac-8e5d-4810-adfd-a7d00d22f6d2)
 
   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/9323f36f-46fa-4639-bf1d-7b2622ae6094)
+
+16. click file -> select capture memory
+
+  ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/37f600cd-d8be-4e27-907c-487273fddbf3)
+
+17.  Enter Destination folder to store memory image
+18.  click capture memory
+     
+  ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/fec21965-899e-4e46-826c-b48aeb6ce70f)
 
   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/b8b4dde0-eb0f-4c70-85df-cf9c9f1059dd)
   
