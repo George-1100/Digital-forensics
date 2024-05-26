@@ -114,6 +114,9 @@ In this project i am going to do  Disk and memory forensics with ransomeware inf
 
 ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/61411f49-22d1-4e3d-8925-946a43c600b2)
 
+![image](https://github.com/George-1100/Digital-forensics/assets/76154087/695e9819-64bc-48a3-b4a0-bae8c9db161c)
+
+
 
 
 
