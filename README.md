@@ -103,7 +103,8 @@ In this project i am going to do  Disk and memory forensics with ransomeware inf
 
 26. Genrate a report
 
-![image](https://github.com/George-1100/Digital-forensics/assets/76154087/f403a1d6-19d8-490d-8c53-9bae7ec9e330)
+  ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/473d67c5-f440-46a2-9a80-c714f891361d)
+
 
 27. Use volatility workbench in windows (GUI) or volatility coandline tool in linux to analyse memory image dump
         
