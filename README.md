@@ -1,6 +1,6 @@
 # Digital-forensics
 ## Description
-In this project i am going to do  Disk and memory forensics with ransomeware infected System 
+In this project i am going to do  Disk and memory forensics with ransomeware infected System by using Autopsy and volatility
 
 ## Steps
 1. Setup up  isolated windows 10 Virutal machine without any internet connection
