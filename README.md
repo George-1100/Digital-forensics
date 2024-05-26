@@ -94,5 +94,19 @@ In this project i am going to do  Disk and memory forensics with ransomeware inf
    
   ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/596e4f85-74ff-44b6-95fb-8997da828975)
 
+  25 .we can see wanna Decrypter.exe in executebles section
+
+  ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/5eb94997-5e1e-4bdc-92e3-e409913a904a)
+
+  ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/f9af16eb-b0da-4934-bfcd-d58837a42ef8)
+
+
+26. Genrate a report
+
+![image](https://github.com/George-1100/Digital-forensics/assets/76154087/f403a1d6-19d8-490d-8c53-9bae7ec9e330)
+
+27. Use volatility workbench in windows (GUI) or volatility coandline tool in linux to analyse memory image dump
+        
+
    
 
