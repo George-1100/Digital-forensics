@@ -108,7 +108,15 @@ In this project i am going to do  Disk and memory forensics with ransomeware inf
 
 27. Use volatility workbench in windows (GUI) or volatility coandline tool in linux to analyse memory image dump
 
-    ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/abe461fb-589e-4b57-b210-f9bc65b0d18d)
+ ![image](https://github.com/George-1100/Digital-forensics/assets/76154087/98eb16e8-d1d0-4d65-b908-24dba318474f)
+
+ 28. wanna Decrypt0r process indication of wannacry infection.
+
+![image](https://github.com/George-1100/Digital-forensics/assets/76154087/61411f49-22d1-4e3d-8925-946a43c600b2)
+
+
+
+
 
         
 
